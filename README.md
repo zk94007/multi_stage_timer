@@ -2,6 +2,7 @@
 
 ## Overview
 This is a multi-stage timer using Node Red Dashboard to control a Raspberry PI device.
+![NodeRed flow](/img/dashboard.jpg)
 
 ## Installation Guide
 - Install Node Red
@@ -16,3 +17,7 @@ npm install -g node-red-dashboard
 ```
 node-red -u . timer.json
 ```
+
+## Overview of Approache
+
+![NodeRed flow](/img/flow.jpg)
